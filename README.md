@@ -1,4 +1,4 @@
-# qT-Embed
+# qT-Embed V1
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20the%20server-5865F2?logo=discord&logoColor=white)](https://discord.gg/2vWpzvJRkX)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078D6?logo=windows&logoColor=white)](../../releases)
